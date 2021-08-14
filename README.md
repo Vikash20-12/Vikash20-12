@@ -24,6 +24,6 @@ Hi, I'm Vikash Singh Tomar, a passionate self-taught backend developer from Indi
 
 **GitHub Stats:-**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash20-12&hide=PHP,HTML,SCSS,EJS,CSS&langs_count=8)](https://github.com/kaafivikrant/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash20-12&hide=PHP,SCSS,CSS&langs_count=8)](https://github.com/kaafivikrant/github-readme-stats)
 
 
